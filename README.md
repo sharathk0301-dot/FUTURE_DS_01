@@ -31,6 +31,8 @@ Business-Sales-Performance-Analytics/
 ├── Superstore_Management_System.csv     # Source dataset (custom)
 ├── superstore_analysis_results.csv      # Exported analysis summary results
 └── README.md                            # Project documentation
+
+```
 ## 📂 Dataset Description
 
 **File:** `Sample_Superstore_cleaned.csv` *(Cleaned Superstore dataset)*  

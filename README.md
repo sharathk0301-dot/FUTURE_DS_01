@@ -76,7 +76,6 @@ Business-Sales-Performance-Analytics/
 | 🌍 Best Region | North |
 | 👥 Best Customer Segment | Home Office |
 
-*(Update the numbers above with your own summary from this CSV once you compute them in your notebook.)*
 
 ---
 
@@ -101,13 +100,6 @@ Business-Sales-Performance-Analytics/
 - Matplotlib — Data visualization  
 - Seaborn — Statistical plots  
 - Jupyter Notebook — Interactive development environment  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**, a short and permissive open-source license that allows reuse, modification, and distribution with minimal restrictions as long as the original license and copyright
-notice are included.[web:28][web:29]
 
 ---
 

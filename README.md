@@ -108,3 +108,9 @@ Business-Sales-Performance-Analytics/
 - **Future Intern** — For providing this internship opportunity.[web:34]  
 - The dataset (`Sample_Superstore_cleaned.csv`) is a cleaned version of the popular Sample Superstore dataset, prepared specifically for this analysis.[file:65]
 
+## Sample Superstore – first 20 rows
+
+| Row ID | Order ID | Order Date | Ship Date | Ship Mode | Customer ID | Customer Name | Segment | Country | City | State | Postal Code | Region | Product ID | Category | Sub-Category | Product Name | Sales | Quantity | Discount | Profit |
+| ...    | ...      | ...        | ...       | ...       | ...         | ...           | ...     | ...     | ...  | ...   | ...         | ...    | ...        | ...      | ...          | ...          | ...   | ...      | ...      | ...    |
+
+Full dataset: [Sample_Superstore_cleaned.csv](Sample_Superstore_cleaned.csv)

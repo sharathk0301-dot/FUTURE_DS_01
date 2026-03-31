@@ -1,4 +1,4 @@
-# 📊 Business Sales Performance Analytics
+#  Business Sales Performance Analytics
 ### Future Intern — Data Science & Analytics Internship | Task 1
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is the **first task** of the **Future Intern Data Science & Analytics Internship**.[web:34]  
 It performs a complete **Exploratory Data Analysis (EDA)** on a custom Superstore Management System dataset to uncover actionable business insights related to:
@@ -22,7 +22,7 @@ It performs a complete **Exploratory Data Analysis (EDA)** on a custom Superstor
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Business-Sales-Performance-Analytics/
@@ -33,7 +33,7 @@ Business-Sales-Performance-Analytics/
 └── README.md                            # Project documentation
 
 ```
-## 📂 Dataset Description
+##  Dataset Description
 
 **File:** `Sample_Superstore_cleaned.csv` *(Cleaned Superstore dataset)*  
 **Source:** Classic Sample Superstore retail data with cleaning applied[file:65]  
@@ -64,22 +64,22 @@ Business-Sales-Performance-Analytics/
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 | Metric | Value |
 |--------|-------|
-| 💰 Total Sales | $12,737,842.60 |
-| 📈 Total Profit | $3,186,464.74 |
-| 🛒 Total Orders | 1,000 |
-| 📉 Avg. Profit Margin | 25.02% |
-| 🏆 Top Category | Grocery ($846,039.25) |
-| 🌍 Best Region | North |
-| 👥 Best Customer Segment | Home Office |
+|  Total Sales | $12,737,842.60 |
+|  Total Profit | $3,186,464.74 |
+|  Total Orders | 1,000 |
+|  Avg. Profit Margin | 25.02% |
+|  Top Category | Grocery ($846,039.25) |
+|  Best Region | North |
+|  Best Customer Segment | Home Office |
 
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 - Sales & Profit Overview — Total revenue, profit, order count, and margin analysis on the cleaned Superstore dataset.  
 - Category Performance — Comparison across Furniture, Office Supplies, and Technology.  
@@ -92,7 +92,7 @@ Business-Sales-Performance-Analytics/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.x  
 - Pandas — Data manipulation and analysis  
@@ -103,14 +103,11 @@ Business-Sales-Performance-Analytics/
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - **Future Intern** — For providing this internship opportunity.[web:34]  
 - The dataset (`Sample_Superstore_cleaned.csv`) is a cleaned version of the popular Sample Superstore dataset, prepared specifically for this analysis.[file:65]
 
-## Sample Superstore – first 20 rows
 
-| Row ID | Order ID | Order Date | Ship Date | Ship Mode | Customer ID | Customer Name | Segment | Country | City | State | Postal Code | Region | Product ID | Category | Sub-Category | Product Name | Sales | Quantity | Discount | Profit |
-| ...    | ...      | ...        | ...       | ...       | ...         | ...           | ...     | ...     | ...  | ...   | ...         | ...    | ...        | ...      | ...          | ...          | ...   | ...      | ...      | ...    |
 
 Full dataset: [Sample_Superstore_cleaned.csv](Sample_Superstore_cleaned.csv)
